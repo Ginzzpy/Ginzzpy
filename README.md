@@ -1,5 +1,5 @@
 <center>
-    <h1 style="color:F5C85D;"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""> <u><strong>I AM GINZZPY<strong></u></h1>
+    <h1 style="color:F5C85D;"><u><strong>I AM GINZZPY<strong></u></h1>
     
 <p align="center">
     <a href="https://github.com/Ginzzpy/followers"><img title="Followers" src="https://img.shields.io/github/followers/Ginzzpy?color=red&style=flat-square"></a>
